@@ -6,7 +6,7 @@
     <a href ="#Getting Started">Getting Started</a>
 </li>
 <li>
-    <a href="#Start building">Start building</a>
+    <a href="#Start building">Building up your GitHub repository</a>
 </li>
 
 <!-- Table of Contents -->
