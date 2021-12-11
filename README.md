@@ -3,10 +3,10 @@
 <!-- Table of Contents -->
 # Table of Contents
 <li>
-    <a href ="#Getting Started">Getting Started</a>
+    <a href ="Getting Started">Getting Started</a>
 </li>
 <li>
-    <a href="#Start building">Building up your GitHub repository</a>
+    <a href="Building up your GitHub repository">Start building</a>
 </li>
 
 <!-- Table of Contents -->
