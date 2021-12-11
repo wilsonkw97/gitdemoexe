@@ -27,9 +27,9 @@ Some steps on getting your Git setup on your local environment
     mkdir "any name you like"
     ```
 
-* Creating a README.md file to give a brief on your project
+* Creating files for your project
     ``` sh
-    echo "text to display">> README.md
+    echo "text to display">> filename #.md is for markdown file, .txt is for text file
     ```
 
 * Change your working directory and initialize git
@@ -42,9 +42,9 @@ Some steps on getting your Git setup on your local environment
 <!-- Building up your GitHub repository -->
 ## Start building
 
-* Add the README.md file you created to this git environment
+* Add the files you created to this git environment
     ``` sh
-    git add README.md #you can use git add . if only one file
+    git add filename #you can use git add . if only one file
     ```
 
 * Creating a commit
@@ -62,7 +62,7 @@ Some steps on getting your Git setup on your local environment
     git remote add origin "url/ssh" #Using SSH allows a smoother connection and not requiring you to authenticate every single time
     ```
 
-* Pushing your README.md file to the main branch of the repository
+* Pushing your files to the main branch of the repository
     ``` sh
     git push -u origin main
     ```
